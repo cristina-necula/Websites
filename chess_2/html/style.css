@@ -36,7 +36,7 @@ float:left
 }
 #menu{
 border-top:23px solid #E4E8EC;
-width:600px;
+width:692px;
 float:left
 }
 #menu ul{
@@ -157,5 +157,17 @@ h2 span{
 	left:0;
 	height:100%;
 	width:100%;
-	background:url(gradient_1.png) repeat-x;
+	background:url(gradient1.png) repeat-x;
 }
+
+/*h6.close {
+	font-size:20px;
+	background-image: -webkit-gradient(
+	linear,
+	left top, left bottom,
+	from(rgba(0, 0, 0, 1)),
+	to(rgba(0, 0, 0, 0.2))
+	);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+};*/
