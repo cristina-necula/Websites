@@ -78,6 +78,7 @@ p a:hover {
 .body div div {
     background-color:#dccfaf;
     width:auto;
+    height: auto;
     color:#447f8d;
     padding:0;
 }
@@ -133,7 +134,7 @@ p a:hover {
     margin:10px 0;
     padding:4px 20px 10px;
 }
-.body div div div {
+.genius {
     background:url(../images/genius.png) no-repeat;
     height:197px;
     min-height:0;
@@ -189,4 +190,17 @@ p a:hover {
     padding-right: 20px;
     color: lightsteelblue;
 }
-
+.en_pessant {
+    float:right;
+    margin:0 0 15px 20px;
+    padding:15px;
+    border:1px solid black;
+}
+.rocada-mare{
+    float:left;
+    margin-left: 10%;
+}
+.rocada-mica{
+    float: right;
+    margin-right: 10%;
+}

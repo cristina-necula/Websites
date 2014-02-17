@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="38" selection-start="126" selection-end="126" vertical-scroll-proportion="6.12" vertical-offset="204" max-vertical-offset="3366">
+            <state line="168" column="29" selection-start="3180" selection-end="3180" vertical-scroll-proportion="1.1305484" vertical-offset="2423" max-vertical-offset="3604">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="acasa.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/acasa.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="0" selection-start="1004" selection-end="1004" vertical-scroll-proportion="-4.6538463" vertical-offset="151" max-vertical-offset="1275">
+            <state line="67" column="42" selection-start="2316" selection-end="2316" vertical-scroll-proportion="-1.9615384" vertical-offset="663" max-vertical-offset="1275">
               <folding>
                 <element signature="tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -53,10 +53,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="istoric.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="istoric.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/istoric.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="32" selection-start="220" selection-end="220" vertical-scroll-proportion="0.5120482" vertical-offset="0" max-vertical-offset="1632">
+            <state line="4" column="18" selection-start="69" selection-end="69" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="1632">
               <folding />
             </state>
           </provider>
@@ -65,7 +65,20 @@
       <file leaf-file-name="piese.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/piese.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="238">
+            <state line="146" column="0" selection-start="8780" selection-end="8780" vertical-scroll-proportion="-8.5" vertical-offset="1887" max-vertical-offset="2329">
+              <folding>
+                <element signature="tag#ul#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jucatori_celebri.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jucatori_celebri.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="27" selection-start="78" selection-end="78" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="969">
               <folding />
             </state>
           </provider>
@@ -78,16 +91,25 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/sah_index.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/piese.html" />
         <option value="$PROJECT_DIR$/css/sah_style.css" />
-        <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/acasa.html" />
         <option value="$PROJECT_DIR$/istoric.html" />
+        <option value="$PROJECT_DIR$/jucatori_celebri.html" />
+        <option value="$PROJECT_DIR$/acasa.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/piese.html" />
       </list>
     </option>
   </component>
@@ -97,7 +119,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -161,9 +183,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -225,7 +251,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -234,7 +260,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.6704918" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295082" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295082" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -258,9 +284,26 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/piese.html">
+    <entry file="file://$PROJECT_DIR$/jucatori_celebri.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
+        <state line="4" column="27" selection-start="78" selection-end="78" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acasa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="42" selection-start="2316" selection-end="2316" vertical-scroll-proportion="-1.9615384" vertical-offset="663" max-vertical-offset="1275">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoric.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="18" selection-start="69" selection-end="69" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="1632">
           <folding />
         </state>
       </provider>
@@ -272,26 +315,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/piese.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="38" selection-start="126" selection-end="126" vertical-scroll-proportion="6.12" vertical-offset="204" max-vertical-offset="3366">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/acasa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="1004" selection-end="1004" vertical-scroll-proportion="-4.6538463" vertical-offset="151" max-vertical-offset="1275">
+        <state line="146" column="0" selection-start="8780" selection-end="8780" vertical-scroll-proportion="-8.5" vertical-offset="1887" max-vertical-offset="2329">
           <folding>
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#ul#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/istoric.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="32" selection-start="220" selection-end="220" vertical-scroll-proportion="0.5120482" vertical-offset="0" max-vertical-offset="1632">
+        <state line="168" column="29" selection-start="3180" selection-end="3180" vertical-scroll-proportion="1.1305484" vertical-offset="2423" max-vertical-offset="3604">
           <folding />
         </state>
       </provider>
