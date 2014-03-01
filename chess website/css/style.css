@@ -101,7 +101,7 @@ p a:hover {
     outline:none;
 }
 .body div div div.first {
-    background:url(../images/kasparov.jpg) no-repeat;
+    background:url(../images/pieces2.jpg) no-repeat;
     height:198px;
     min-height:0;
     padding:0;
@@ -114,7 +114,6 @@ p a:hover {
     line-height:32px;
     text-align:right;
     text-transform:uppercase;
-    margin:16px 0 0 150px;
     padding:0;
 }
 .body div div div.first div {
@@ -135,7 +134,7 @@ p a:hover {
     padding:4px 20px 10px;
 }
 .body div div div.genius {
-    background:url(../images/genius_3.png) no-repeat;
+    background:url(../images/3d-chess-board-wallpaper.jpg) no-repeat;
     height:197px;
     min-height:0;
     padding:0;
@@ -197,10 +196,10 @@ p a:hover {
     border:1px solid black;
 }
 .body div div div.rocada-mare {
-    float: none!important;
-    float: left;
-    vertical-align:baseline;
-
+    /*float: none!important;*/
+    /*float: left;*/
+    /*vertical-align:baseline;*/
+    text-align: center;
 }
 
 div.neoficiali{
@@ -236,4 +235,15 @@ div.neoficiali{
     text-align: center;
     margin-bottom: 20px;
 }
-
+.play_o {
+    width: 100%;
+    margin-top: 3%;
+}
+.stiri_img {
+    float: left;
+    margin: 8px;
+    margin-bottom: 1px!important;
+}
+.stiri {
+    padding: 0!important;
+}

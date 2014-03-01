@@ -26,25 +26,31 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="236" column="23" selection-start="4372" selection-end="4372" vertical-scroll-proportion="-10.52" vertical-offset="3749" max-vertical-offset="4165">
+            <state line="247" column="25" selection-start="4579" selection-end="4579" vertical-scroll-proportion="0.0" vertical-offset="3874" max-vertical-offset="4335">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sah_style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/sah_style.css">
+      <file leaf-file-name="stiri.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stiri.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="592" column="15" selection-start="12718" selection-end="12791" vertical-scroll-proportion="0.0" vertical-offset="9868" max-vertical-offset="10251">
-              <folding />
+            <state line="130" column="24" selection-start="7052" selection-end="7052" vertical-scroll-proportion="0.915212" vertical-offset="1843" max-vertical-offset="2482">
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#3;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#4;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="acasa.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="acasa.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/acasa.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="50" selection-start="2873" selection-end="2873" vertical-scroll-proportion="1.1105528" vertical-offset="935" max-vertical-offset="1700">
+            <state line="59" column="31" selection-start="1980" selection-end="1980" vertical-scroll-proportion="11.384615" vertical-offset="1299" max-vertical-offset="1700">
               <folding />
             </state>
           </provider>
@@ -53,11 +59,8 @@
       <file leaf-file-name="jucatori_celebri.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jucatori_celebri.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="189" column="54" selection-start="11482" selection-end="11482" vertical-scroll-proportion="-12.692307" vertical-offset="2883" max-vertical-offset="3451">
-              <folding>
-                <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="39" column="56" selection-start="1298" selection-end="1298" vertical-scroll-proportion="-3.9230769" vertical-offset="561" max-vertical-offset="3468">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,14 +83,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/sah_index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/sah_style.css" />
-        <option value="$PROJECT_DIR$/istoric.html" />
+        <option value="$PROJECT_DIR$/galerie.html" />
+        <option value="$PROJECT_DIR$/images/articol1.html" />
         <option value="$PROJECT_DIR$/acasa.html" />
+        <option value="$PROJECT_DIR$/joaca_online.html" />
+        <option value="$PROJECT_DIR$/articol2.html" />
+        <option value="$PROJECT_DIR$/articol1.html" />
         <option value="$PROJECT_DIR$/piese.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/istoric.html" />
+        <option value="$PROJECT_DIR$/articol3.html" />
+        <option value="$PROJECT_DIR$/articole.html" />
+        <option value="$PROJECT_DIR$/articol4.html" />
         <option value="$PROJECT_DIR$/jucatori_celebri.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/stiri.html" />
       </list>
     </option>
   </component>
@@ -123,6 +134,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -157,7 +169,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,10 +178,23 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cristina\Documents\GitHub\Websites\chess website" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -179,14 +203,6 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -230,16 +246,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.73770493" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.742623" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26229507" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25737706" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -263,27 +279,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="168" column="29" selection-start="3180" selection-end="3180" vertical-scroll-proportion="0.0" vertical-offset="2423" max-vertical-offset="3604">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/sah_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="0" selection-start="2667" selection-end="2667" vertical-scroll-proportion="0.0" vertical-offset="2448" max-vertical-offset="10251">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/acasa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="42" selection-start="2316" selection-end="2316" vertical-scroll-proportion="0.0" vertical-offset="1139" max-vertical-offset="1700">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/istoric.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="18" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1632">
@@ -296,11 +291,6 @@
         <state line="146" column="0" selection-start="8780" selection-end="8780" vertical-scroll-proportion="0.0" vertical-offset="2482" max-vertical-offset="2703">
           <folding>
             <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h4#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#1;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -308,62 +298,114 @@
     <entry file="file://$PROJECT_DIR$/jucatori_celebri.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="27" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/joaca_online.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="46" selection-start="975" selection-end="975" vertical-scroll-proportion="-7.5" vertical-offset="315" max-vertical-offset="1428">
           <folding>
-            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/piese.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="23" selection-start="7350" selection-end="7352" vertical-scroll-proportion="0.33224756" vertical-offset="2040" max-vertical-offset="2907">
+        <state line="146" column="24" selection-start="8749" selection-end="8749" vertical-scroll-proportion="0.49127182" vertical-offset="2285" max-vertical-offset="2703">
           <folding>
             <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h4#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#1;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/istoric.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="18" selection-start="69" selection-end="69" vertical-scroll-proportion="0.1904762" vertical-offset="0" max-vertical-offset="1632">
+        <state line="86" column="0" selection-start="4402" selection-end="4402" vertical-scroll-proportion="-8.884615" vertical-offset="1231" max-vertical-offset="1649">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sah_style.css">
+    <entry file="file://$PROJECT_DIR$/articol1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="592" column="15" selection-start="12718" selection-end="12791" vertical-scroll-proportion="0.0" vertical-offset="9868" max-vertical-offset="10251">
+        <state line="4" column="19" selection-start="0" selection-end="6740" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="2074">
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articol2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="119" selection-start="2069" selection-end="2164" vertical-scroll-proportion="-8.5" vertical-offset="714" max-vertical-offset="1921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articol4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="24" selection-start="4374" selection-end="4374" vertical-scroll-proportion="3.7242267" vertical-offset="0" max-vertical-offset="1666">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articol3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="63" selection-start="2010" selection-end="2045" vertical-scroll-proportion="0.5860349" vertical-offset="666" max-vertical-offset="1564">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articole.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="30" selection-start="3548" selection-end="3548" vertical-scroll-proportion="0.32169577" vertical-offset="1265" max-vertical-offset="1717">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#3;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucatori_celebri.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="56" selection-start="1298" selection-end="1298" vertical-scroll-proportion="-3.9230769" vertical-offset="561" max-vertical-offset="3468">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acasa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="31" selection-start="1980" selection-end="1980" vertical-scroll-proportion="11.384615" vertical-offset="1299" max-vertical-offset="1700">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="236" column="23" selection-start="4372" selection-end="4372" vertical-scroll-proportion="-10.52" vertical-offset="3749" max-vertical-offset="4165">
+        <state line="247" column="25" selection-start="4579" selection-end="4579" vertical-scroll-proportion="0.0" vertical-offset="3874" max-vertical-offset="4335">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jucatori_celebri.html">
+    <entry file="file://$PROJECT_DIR$/stiri.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="189" column="54" selection-start="11482" selection-end="11482" vertical-scroll-proportion="-12.692307" vertical-offset="2883" max-vertical-offset="3451">
+        <state line="130" column="24" selection-start="7052" selection-end="7052" vertical-scroll-proportion="0.915212" vertical-offset="1843" max-vertical-offset="2482">
           <folding>
-            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/acasa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="50" selection-start="2873" selection-end="2873" vertical-scroll-proportion="1.1105528" vertical-offset="935" max-vertical-offset="1700">
-          <folding />
         </state>
       </provider>
     </entry>
