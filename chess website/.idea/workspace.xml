@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f9b200-9580-44f4-83f1-b85e6800395c" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\css\ie7.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\css\ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\css\ie9.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\10203.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\102031.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\Antique_chess_board.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\B&amp;W che.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\bg-body.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\chess2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\chessboard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\chessboard2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\chessboard4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\genius.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\genius.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\genius_2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\genius_3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\pion.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\watermarked_cover.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Cristina\Documents\GitHub\Websites\chess website\images\world.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chess website.iws" />
@@ -43,53 +25,7 @@
     <favorites_list name="chess website" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="1" selection-start="195" selection-end="195" vertical-scroll-proportion="0.35831383" vertical-offset="0" max-vertical-offset="4335">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stiri.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stiri.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="117" column="88" selection-start="5919" selection-end="5988" vertical-scroll-proportion="-43.153847" vertical-offset="867" max-vertical-offset="2482">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="articole.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/articole.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="30" selection-start="3548" selection-end="3548" vertical-scroll-proportion="-34.53846" vertical-offset="496" max-vertical-offset="1717">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="acasa.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/acasa.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="31" selection-start="1980" selection-end="1980" vertical-scroll-proportion="11.384615" vertical-offset="1299" max-vertical-offset="1700">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jucatori_celebri.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jucatori_celebri.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="56" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="3468">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -121,8 +57,8 @@
         <option value="$PROJECT_DIR$/articole.html" />
         <option value="$PROJECT_DIR$/articol4.html" />
         <option value="$PROJECT_DIR$/jucatori_celebri.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/stiri.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -158,6 +94,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -192,7 +129,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,8 +138,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -211,14 +147,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -227,6 +155,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -270,13 +206,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.742623" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.742623" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25737706" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -327,72 +263,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/joaca_online.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="46" selection-start="975" selection-end="975" vertical-scroll-proportion="-7.5" vertical-offset="315" max-vertical-offset="1428" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/piese.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="24" selection-start="8749" selection-end="8749" vertical-scroll-proportion="0.49127182" vertical-offset="2285" max-vertical-offset="2703" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoric.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="0" selection-start="4402" selection-end="4402" vertical-scroll-proportion="-8.884615" vertical-offset="1231" max-vertical-offset="1649" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articol1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="19" selection-start="0" selection-end="6740" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="2074" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articol2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="119" selection-start="2069" selection-end="2164" vertical-scroll-proportion="-8.5" vertical-offset="714" max-vertical-offset="1921" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articol4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="24" selection-start="4374" selection-end="4374" vertical-scroll-proportion="3.7242267" vertical-offset="0" max-vertical-offset="1666" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articol3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="63" selection-start="2010" selection-end="2045" vertical-scroll-proportion="0.5860349" vertical-offset="666" max-vertical-offset="1564" />
+        <state line="196" column="31" selection-start="3746" selection-end="3746" vertical-scroll-proportion="-1.1896956" vertical-offset="3840" max-vertical-offset="4267">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jucatori_celebri.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="56" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="3468">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articole.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="30" selection-start="3548" selection-end="3548" vertical-scroll-proportion="-34.53846" vertical-offset="496" max-vertical-offset="1717">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stiri.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="117" column="88" selection-start="5919" selection-end="5988" vertical-scroll-proportion="-43.153847" vertical-offset="867" max-vertical-offset="2482">
+        <state line="39" column="56" selection-start="1298" selection-end="1298" vertical-scroll-proportion="92.26923" vertical-offset="3062" max-vertical-offset="3468">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/acasa.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="31" selection-start="1980" selection-end="1980" vertical-scroll-proportion="11.384615" vertical-offset="1299" max-vertical-offset="1700">
+        <state line="59" column="31" selection-start="1980" selection-end="1980" vertical-scroll-proportion="-0.8342105" vertical-offset="1320" max-vertical-offset="1700">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/stiri.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="195" selection-end="195" vertical-scroll-proportion="0.35831383" vertical-offset="0" max-vertical-offset="4335">
+        <state line="117" column="88" selection-start="5919" selection-end="5988" vertical-scroll-proportion="4.9600997" vertical-offset="0" max-vertical-offset="2482">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articol1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="7" selection-start="158" selection-end="158" vertical-scroll-proportion="-3.8753116" vertical-offset="1673" max-vertical-offset="2074">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articole.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="30" selection-start="3548" selection-end="3548" vertical-scroll-proportion="0.19451371" vertical-offset="1316" max-vertical-offset="1717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoric.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="0" selection-start="4402" selection-end="4402" vertical-scroll-proportion="3.6458852" vertical-offset="0" max-vertical-offset="1649">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piese.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="24" selection-start="8749" selection-end="8749" vertical-scroll-proportion="6.189526" vertical-offset="0" max-vertical-offset="2703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/joaca_online.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="46" selection-start="975" selection-end="975" vertical-scroll-proportion="-1.2892768" vertical-offset="1027" max-vertical-offset="1428">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articol2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="119" selection-start="2069" selection-end="2164" vertical-scroll-proportion="-1.4588529" vertical-offset="1520" max-vertical-offset="1921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articol3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="63" selection-start="2010" selection-end="2045" vertical-scroll-proportion="-0.65336657" vertical-offset="1163" max-vertical-offset="1564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articol4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="24" selection-start="4374" selection-end="4374" vertical-scroll-proportion="0.4488778" vertical-offset="1265" max-vertical-offset="1666">
           <folding />
         </state>
       </provider>
