@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f9b200-9580-44f4-83f1-b85e6800395c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="70f9b200-9580-44f4-83f1-b85e6800395c" name="Default" comment="" />
     <ignored path="chess website.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -103,30 +100,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chess website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chess website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chess website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chess website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -135,11 +108,11 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/template-uri/themargaritafragrancewebtemplate" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -147,6 +120,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -155,14 +136,6 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -241,9 +214,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jucatori_celebri.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="56" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="3468">
-          <folding />
-        </state>
+        <state line="39" column="56" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="3468" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/istoric.html">
@@ -258,93 +229,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jucatori_celebri.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="969">
-          <folding />
-        </state>
+        <state line="4" column="27" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="969" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="196" column="31" selection-start="3746" selection-end="3746" vertical-scroll-proportion="-1.1896956" vertical-offset="3840" max-vertical-offset="4267">
-          <folding />
-        </state>
+        <state line="196" column="31" selection-start="3746" selection-end="3746" vertical-scroll-proportion="-1.1896956" vertical-offset="3840" max-vertical-offset="4267" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jucatori_celebri.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="56" selection-start="1298" selection-end="1298" vertical-scroll-proportion="92.26923" vertical-offset="3062" max-vertical-offset="3468">
-          <folding />
-        </state>
+        <state line="39" column="56" selection-start="1298" selection-end="1298" vertical-scroll-proportion="92.26923" vertical-offset="3062" max-vertical-offset="3468" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/acasa.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="31" selection-start="1980" selection-end="1980" vertical-scroll-proportion="-0.8342105" vertical-offset="1320" max-vertical-offset="1700">
-          <folding />
-        </state>
+        <state line="59" column="31" selection-start="1980" selection-end="1980" vertical-scroll-proportion="-0.8342105" vertical-offset="1320" max-vertical-offset="1700" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stiri.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="117" column="88" selection-start="5919" selection-end="5988" vertical-scroll-proportion="4.9600997" vertical-offset="0" max-vertical-offset="2482">
-          <folding />
-        </state>
+        <state line="117" column="88" selection-start="5919" selection-end="5988" vertical-scroll-proportion="4.9600997" vertical-offset="0" max-vertical-offset="2482" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/articol1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="158" selection-end="158" vertical-scroll-proportion="-3.8753116" vertical-offset="1673" max-vertical-offset="2074">
-          <folding />
-        </state>
+        <state line="7" column="7" selection-start="158" selection-end="158" vertical-scroll-proportion="-3.8753116" vertical-offset="1673" max-vertical-offset="2074" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/articole.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="30" selection-start="3548" selection-end="3548" vertical-scroll-proportion="0.19451371" vertical-offset="1316" max-vertical-offset="1717">
-          <folding />
-        </state>
+        <state line="82" column="30" selection-start="3548" selection-end="3548" vertical-scroll-proportion="0.19451371" vertical-offset="1316" max-vertical-offset="1717" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/istoric.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="0" selection-start="4402" selection-end="4402" vertical-scroll-proportion="3.6458852" vertical-offset="0" max-vertical-offset="1649">
-          <folding />
-        </state>
+        <state line="86" column="0" selection-start="4402" selection-end="4402" vertical-scroll-proportion="3.6458852" vertical-offset="0" max-vertical-offset="1649" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/piese.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="24" selection-start="8749" selection-end="8749" vertical-scroll-proportion="6.189526" vertical-offset="0" max-vertical-offset="2703">
-          <folding />
-        </state>
+        <state line="146" column="24" selection-start="8749" selection-end="8749" vertical-scroll-proportion="6.189526" vertical-offset="0" max-vertical-offset="2703" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/joaca_online.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="46" selection-start="975" selection-end="975" vertical-scroll-proportion="-1.2892768" vertical-offset="1027" max-vertical-offset="1428">
-          <folding />
-        </state>
+        <state line="30" column="46" selection-start="975" selection-end="975" vertical-scroll-proportion="-1.2892768" vertical-offset="1027" max-vertical-offset="1428" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/articol2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="119" selection-start="2069" selection-end="2164" vertical-scroll-proportion="-1.4588529" vertical-offset="1520" max-vertical-offset="1921">
-          <folding />
-        </state>
+        <state line="55" column="119" selection-start="2069" selection-end="2164" vertical-scroll-proportion="-1.4588529" vertical-offset="1520" max-vertical-offset="1921" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/articol3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="63" selection-start="2010" selection-end="2045" vertical-scroll-proportion="-0.65336657" vertical-offset="1163" max-vertical-offset="1564">
-          <folding />
-        </state>
+        <state line="53" column="63" selection-start="2010" selection-end="2045" vertical-scroll-proportion="-0.65336657" vertical-offset="1163" max-vertical-offset="1564" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/articol4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="24" selection-start="4374" selection-end="4374" vertical-scroll-proportion="0.4488778" vertical-offset="1265" max-vertical-offset="1666">
-          <folding />
-        </state>
+        <state line="85" column="24" selection-start="4374" selection-end="4374" vertical-scroll-proportion="0.4488778" vertical-offset="1265" max-vertical-offset="1666" />
       </provider>
     </entry>
   </component>
