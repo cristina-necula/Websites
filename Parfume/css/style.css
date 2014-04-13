@@ -1,1 +1,265 @@
 /*Parfume website*/
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 18px;
+    position: relative;
+    border-bottom: 5px #d00b01 solid;
+}
+div{
+    display: block;
+}
+a:link{
+    text-decoration: none;
+}
+
+/*Header style*/
+
+.header{
+    padding: 36px 0 21px 0;
+    background: #fff;
+    border-top: 5px #d00b01 solid;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+.logo_container{
+    padding-left: 5%;
+    width: 30%;
+    float: left;
+}
+.logo{
+    width: 80%;
+}
+.menu{
+    float: right;
+    position: relative;
+    padding-top: 2%;
+}
+.my_menu{
+    list-style-type: none;
+    position: relative;
+    left: 0;
+    display: block;
+    float: left;
+    margin: 0 30px 0 0;
+}
+.my_menu li{
+    display: inline-block;
+    line-height: 20px;
+    padding: 0 0 0 25px;
+}
+.my_menu li a{
+    line-height: 18px;
+    color: #313131;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-shadow: none;
+    text-decoration: none;
+    padding: 0;
+    text-align: left;
+}
+.current a{
+    color: #c5c5c5!important;
+}
+
+/*Page home style*/
+
+.page_container{
+    padding-bottom: 10px;
+}
+.big_image{
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.row{
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.square{
+    width: 270px;
+    min-height: 1px;
+    margin-left: 30px;
+    padding-bottom: 50px;
+    display: inline-block;
+}
+.square a{
+    margin-bottom: 15px;
+    padding: 0;
+    color: #3a3a3a;
+    outline: none !important;
+    width: 100%;
+}
+span.icon_title{
+    display: block;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto 14px auto;
+}
+span.icon1{
+    background-image: url(../images/1.png);
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+span.icon2{
+    background-image: url(../images/2.png);
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+span.icon3{
+    background-image: url(../images/3.png);
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+span.icon4{
+    background-image: url(../images/4.png);
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+.title{
+    display: block;
+    line-height: 24px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    padding-bottom: 8px;
+    color: #313131;
+}
+.line{
+    height: 1px;
+    background: url(../images/welcome_bg.png) no-repeat center top;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-bottom: 20px;
+}
+.quote{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.quote span{
+    line-height: 30px;
+    padding-top: 15px;
+    font-size: 20px;
+    display: block;
+    font-style: italic;
+}
+.last_posts{
+    margin-top: 50px;
+}
+.post_title{
+    line-height: 20px;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #d00b01!important;
+}
+
+/*Page history style*/
+
+.title_bar{
+    padding: 19px 0;
+    margin: 0 0 20px 0;
+    list-style: none;
+    background: #d1d1d1;
+    color: #d00b01;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+}
+.page{
+    padding-left: 5%;
+}
+.page_85_container{
+    width: 97%;
+    padding-left: 5%;
+    overflow: hidden;
+}
+section{
+    padding-top: 20px;
+    overflow: hidden;
+    width: 100%;
+}
+.big_text{
+    max-width: 60%;
+    float: left;
+    padding-right: 25px;
+    border-right: 1px dotted #dadada;
+}
+.sidebar{
+    max-width: 29%;
+    margin-left: 25px;
+    float: left;
+    height: inherit;
+}
+.links{
+    font-family: serif;
+    padding-top: 15px;
+    font-size: 20px;
+    color: #313131;
+    border-bottom: 1px #dadada dotted;
+}
+.insides{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.img_box{
+    width: 260px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/*Blog page style*/
+
+.big_blog{
+    overflow: hidden;
+    max-width: 97%;
+    margin-left: 5%;
+}
+.left{
+    width: 45%;
+    float: left;
+}
+.right{
+    width: 45%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+    border-left: 1px dotted #dadada;
+}
+.red_italic{
+    font-style: italic;
+    color: #d00b01;
+}
+.article{
+    border-bottom: 1px dotted #dadada;
+    padding-bottom: 10px;
+}
+
+/*For her&him page*/
+
+.column3{
+    width: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+    text-align: center;
+}
+.column{
+    width: 30%;
+    display: inline-block;
+    margin-right: 15px;
+}
+.img_column{
+    width: 95%;
+    border-radius: 3px;
+    height: 256px;
+}
