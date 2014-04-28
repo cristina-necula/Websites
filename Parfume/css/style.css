@@ -169,7 +169,6 @@ span.icon4{
 .title_bar{
     padding: 19px 0;
     margin: 0 0 20px 0;
-    list-style: none;
     background: #d1d1d1;
     color: #d00b01;
     font-family: 'Open Sans', sans-serif;
@@ -199,7 +198,6 @@ section{
     max-width: 29%;
     margin-left: 25px;
     float: left;
-    height: inherit;
 }
 .links{
     font-family: serif;
@@ -269,7 +267,7 @@ section{
     border-radius: 3px;
     height: 256px;
 }
-/*Channel perfumes page*/
+
 .perfumes{
     width: 95%;
     margin-left: 5%;
